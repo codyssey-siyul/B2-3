@@ -716,46 +716,44 @@ Gallery View에서는 캠페인별로 다음 정보를 한눈에 확인 가능
 
 ## 15.1 전체 n8n 워크플로우
 
-```text
-[스크린샷 삽입 예정]
+<img src="images/n8n_workflow.png" width="900">  
 
-설명:
+```text
 폼 입력부터 공통 기획안 생성, 플랫폼별 A/B 콘텐츠 생성,
 이미지 생성 및 Notion 저장까지 연결된 전체 n8n 워크플로우
 ```
 
----
+
 
 ## 15.2 Notion Gallery View
 
-```text
-[스크린샷 삽입 예정]
+<img src="images/notion_gallery_view.png" width="900">  
 
-설명:
+```text
 자동 생성된 캠페인별 대표 이미지와 제목을
 Gallery 형태로 확인할 수 있는 Notion 데이터베이스
 ```
 
----
+
 
 ## 15.3 콘텐츠 상세 결과
 
-```text
-[스크린샷 삽입 예정]
+<img src="images/detail1.png" width="900">  
+<img src="images/detail2.png" width="900">  
+<img src="images/detail3.png" width="900">  
 
-설명:
+```text
 공통 기획안, Instagram A/B, Blog A/B,
 X A/B 콘텐츠가 자동 저장된 Notion 상세 페이지
 ```
 
----
+
 
 ## 15.4 생성 이미지
 
-```text
-[스크린샷 삽입 예정]
+<img src="images/imeage.png" width="900">  
 
-설명:
+```text
 AI 일정관리 앱 출시 홍보 캠페인 테스트에서
 자동 생성된 대표 이미지
 ```
